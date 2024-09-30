@@ -117,3 +117,16 @@ states/
 data/
 
 # transformers/*
+mimic_dataset_venv/pyvenv.cfg
+mimic_dataset_venv/Scripts/activate
+mimic_dataset_venv/Scripts/activate.bat
+mimic_dataset_venv/Scripts/Activate.ps1
+mimic_dataset_venv/Scripts/deactivate.bat
+mimic_dataset_venv/Scripts/pip.exe
+mimic_dataset_venv/Scripts/pip3.9.exe
+mimic_dataset_venv/Scripts/pip3.exe
+mimic_dataset_venv/Scripts/python.exe
+mimic_dataset_venv/Scripts/pythonw.exe
+.vscode/launch.json
+mimic_dataset_venv/Scripts/f2py.exe
+mimic_dataset_venv/Scripts/normalizer.exe
