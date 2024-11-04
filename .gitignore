@@ -130,3 +130,5 @@ mimic_dataset_venv/Scripts/pythonw.exe
 .vscode/launch.json
 mimic_dataset_venv/Scripts/f2py.exe
 mimic_dataset_venv/Scripts/normalizer.exe
+/mimic-iv-1.0/
+/mimic_dataset_venv/
